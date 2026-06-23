@@ -93,12 +93,6 @@ https://maskoot.ir
 
 ---
 
-## تصاویر
-
-![Maskoot](./screenshots/fa-home.png)
-
----
-
 ## مجوز
 
 MIT License
