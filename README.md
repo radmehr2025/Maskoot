@@ -90,12 +90,6 @@ https://maskoot.ir
 
 ---
 
-## Screenshots
-
-![Maskoot](./screenshots/en-home.png)
-
----
-
 ## License
 
 MIT License
