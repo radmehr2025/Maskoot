@@ -1,7 +1,7 @@
 # مسکوت | Maskoot
 
 <p align="center">
-  <img src="./screenshots/fa-home.png" alt="تصویر مسکوت" width="900">
+  <img src="./assets/banner.png" alt="Maskoot Banner" width="100%">
 </p>
 
 <p align="center">
@@ -9,7 +9,8 @@
 </p>
 
 <p align="center">
-  🌍 <a href="./README.md">View English Version</a><br>
+  🌍 <a href="./README.md">View English Version</a>
+  <br> <br>
   🚀 نسخه آنلاین: https://maskoot.ir
 </p>
 
@@ -20,6 +21,10 @@
 مسکوت یک ابزار متن‌باز و رایگان برای استگانوگرافی (Steganography) است که امکان مخفی‌سازی متن و فایل در تصاویر PNG را فراهم می‌کند.
 
 تمام عملیات رمزنگاری و استخراج محتوا در مرورگر انجام می‌شود و هیچ‌گونه تصویر، فایل، رمز عبور یا پیامی روی سرور ذخیره نمی‌شود.
+
+<p align="center">
+  <img src="./screenshots/fa-home.png" alt="تصویر مسکوت" width="900">
+</p>
 
 ---
 
