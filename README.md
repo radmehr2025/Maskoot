@@ -1,7 +1,7 @@
 # Maskoot
 
 <p align="center">
-  <img src="./screenshots/en-home.png" alt="Maskoot Screenshot" width="900">
+  <img src="./assets/banner.png" alt="Maskoot Banner" width="100%">
 </p>
 
 <p align="center">
@@ -9,7 +9,8 @@
 </p>
 
 <p align="center">
-  🌍 <a href="./README.fa.md">مشاهده نسخه فارسی</a><br>
+  🌍 <a href="./README.fa.md">مشاهده نسخه فارسی</a>
+  <br> <br>
   🚀 Live Demo: https://maskoot.ir
 </p>
 
@@ -22,6 +23,10 @@ Maskoot is a free and open-source steganography tool that allows you to hide tex
 The hidden content can optionally be encrypted using AES-256-GCM and is processed entirely in the browser using the Web Crypto API.
 
 No files, passwords, or messages are stored on the server.
+
+<p align="center">
+  <img src="./screenshots/en-home.png" alt="Maskoot Screenshot" width="900">
+</p>
 
 ---
 
